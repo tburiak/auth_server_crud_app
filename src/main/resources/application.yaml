@@ -1,2 +1,7 @@
+logging:
+  level:
+    org:
+      springframework:
+        security: INFO
 server:
   port: 9000
